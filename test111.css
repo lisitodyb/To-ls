@@ -1,0 +1,48 @@
+body {
+    width: 500px;
+    margin: auto;
+}
+
+.top,.bottom,.center {
+    height: auto;
+    width: 100%;
+    alignment: center;
+}
+
+#left {
+    width: 30%;
+    float: left;
+    padding: 0 10px;
+    height: auto;
+}
+
+#right {
+    width: 50%;
+    float: right;
+    height: auto;
+    padding-top: 30px;
+}
+
+.line {
+    height: 300px;
+    border-color: green;
+    border-left-style: solid;
+    border-width: 2px;
+}
+
+.img1 {
+    width: 35px;
+    height: 300px;
+    float: left;
+}
+
+.img2 {
+    width: 44px;
+    height: 300px;
+    float: right;
+}
+
+.fontcolor {
+    font-size: 24px;
+    color: lightblue;
+}
